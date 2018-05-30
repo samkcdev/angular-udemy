@@ -1,3 +1,7 @@
-<h1>Server Works!</h1>
+<p>This server with {{serverId}} is {{serverStatus}}</p>
 
-
+<ul>
+  <li *ngFor="let server of servers">
+    {{server}}
+  </li>
+</ul>
