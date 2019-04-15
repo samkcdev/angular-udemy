@@ -1,8 +1,9 @@
-# angular-udemy
-Learning Angular from Udemy
+# Angular from udemy course
+
+
 Studied so far:
 <b>Data Bindings</b>
-String Interpolation: {{}}
+<b>String Interpolation: {{}}</b>
 Used to show the data printed on the template.
 Property Binding:[disabled]="Boolean value": Bind a HTML property and change it.
 Event Binding:(click)="methodName()": Event binding is used to make changes to the template based on the users event the mouse click etc.
